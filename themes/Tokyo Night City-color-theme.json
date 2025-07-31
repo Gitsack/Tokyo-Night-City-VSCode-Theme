@@ -2106,7 +2106,7 @@
     "editorGutter.commentRangeForeground": "#cbc4c4",
     "debugExceptionWidget.background": "#2b2d34",
     "debugExceptionWidget.border": "#47474700",
-    "quickInput.foreground": "#858BB4",
+    "quickInput.foreground": "#7eaed1cc",
     "keybindingLabel.background": "#161824",
     "keybindingLabel.foreground": "#eeeeeeb3",
     "keybindingLabel.border": "#393E5C",
